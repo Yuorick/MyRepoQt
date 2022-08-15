@@ -1,0 +1,2 @@
+# MyRepoQt
+Projects||Libs
